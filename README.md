@@ -1,6 +1,6 @@
 **JavaScript Programming Best Practices**
 
-This document&#39;s primary motivation is twofold:
+This document&#39;s primary motivation is two fold:
 
 1) code consistency and
 
